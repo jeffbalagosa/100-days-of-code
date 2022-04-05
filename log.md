@@ -1,30 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 5 2022, Tuesday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Worked on my portfolio:
 
-**Link to work:** [Calculator App](http://www.example.com)
+- Remove hover states in nav.
+- Change background-color to new color scheme.
+- Change main section background-color to new color scheme.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+Worked on Full-Stack Course on Codecademy:
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+- Started reviewing responsive web design.
+- First part explained the grid. Haven't touched CSS in a good while. So I need it. Took a quiz after and got 100% on the first try.
+- Second part is flexbox. Now this one is definitely a need!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+- I know technically you're not supposed to be working on courses for this challenge unless your brand-new to coding. I'm technically not brand-new, but I've never actually completed a full course before.
 
 **Link(s) to work**
+
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
