@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 3: April 7 2022, Thursday
+
+### Today's Progress:
+
+Worked on my portfolio:
+
+- Deleted a bunch more stuff from html.
+- Carefully picked through the messy land mine of my poorly structured CSS file.
+- Created sections to how I do them now.
+
+Worked on Full-Stack Course on Codecademy:
+
+-
+
+### Thoughts
+
+- This morning was a little disasterous. Not only was I super tired from not enough sleep. The hard drive that houses my repo crashed. I was able to repair it (Thank god for git!!), but lost a lot of time. I was still able to work on what I needed.
+
+### Link(s) to work
+
+1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
+2. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
 ## Day 2: April 6 2022, Wednesday
 
 ### Today's Progress:
