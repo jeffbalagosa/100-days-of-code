@@ -12,11 +12,16 @@ Worked on my portfolio:
 
 Worked on Full-Stack Course on Codecademy:
 
--
+- Finished up exercises on flex-wrap. Already thinking about how I'll use it in my portfolio.
+- Finished exercises on align-content.
+- Finished exercises on flex-direction.
+- Finished exercises on flex-flow shortcut.
 
 ### Thoughts
 
-- This morning was a little disasterous. Not only was I super tired from not enough sleep. The hard drive that houses my repo crashed. I was able to repair it (Thank god for git!!), but lost a lot of time. I was still able to work on what I needed.
+- This morning was a little disasterous. Not only was I super tired from not enough sleep (Jiu Jitsu always gives me insomnia.). The hard drive that houses my repo crashed. I was able to repair it (Thank god for git!!), but lost a lot of time. I was still able to work on what I needed. One thing I have full confidence in, is my ability to power through adversity.
+- Flex seems so much easier to manage and manipulate layout than just using grid. But I remember asking more experienced developers about why they'd ever chose grid properties over flex, and they did say that some scenarios grid is more appropriate. I can't see it, but I'm sure I'll end up agreeing at some point. Said the same thing about many Jiu Jitsu techniques.
+- It'll be another training night tonight. I'm half considering not training, but then I'd be sacrificing my kids training too. I shouldn't let my goals get in the way of my responsibilities as a father.
 
 ### Link(s) to work
 
