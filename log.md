@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+## Day 4: April 8 2022, Friday
+
+### Today's Progress:
+
+Worked on my portfolio:
+
+- Added the nav in the footer back.
+  - It styled the same as the top nav for smaller screens. Had to figure out how to restructure my CSS to fix that.
+- Flexboxed the footer nav.
+- Changed the border color for the main section to a softer one.
+- The colors and fonts were changed. But I did that yesterday afternoon/night, so that doesn't count.
+
+Worked on Full-Stack Course on Codecademy:
+
+-
+
+### Thoughts
+
+- Forgot to push my finished log file yesterday. But if you look at the my commits, you'll see that they were made yesterday, so I didn't fail the challenge. lol
+-
+
+### Link(s) to work
+
+1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
+2. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
 ## Day 3: April 7 2022, Thursday
 
 ### Today's Progress:
