@@ -10,16 +10,19 @@ Worked on my portfolio:
   - It styled the same as the top nav for smaller screens. Had to figure out how to restructure my CSS to fix that.
 - Flexboxed the footer nav.
 - Changed the border color for the main section to a softer one.
-- The colors and fonts were changed. But I did that yesterday afternoon/night, so that doesn't count.
+- The colors and fonts were changed. But I did that yesterday afternoon/night, so that doesn't count towards the challenge.
 
 Worked on Full-Stack Course on Codecademy:
 
--
+- Completed the exercises for nested flexboxes.
+- Completed review exersises for flex concepts.
+- Took the quiz on flex. I was able to get 100% on the 3rd try.
 
 ### Thoughts
 
 - Forgot to push my finished log file yesterday. But if you look at the my commits, you'll see that they were made yesterday, so I didn't fail the challenge. lol
--
+- I'm thinking, I can use flex-basis for my initials in my nav. I want to push it to the right of the screen, but I haven't found an elegant way to do it yet.
+- I'll have to review flex at a later point. Seems I still don't have a full grasp on it yet. Not sure if it's just because I'm tired, but I got a lot of things wrong on the first couple tries of the quiz.
 
 ### Link(s) to work
 
