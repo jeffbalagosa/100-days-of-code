@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+## Day 5: April 9 2022, Saturday
+
+### Today's Progress:
+
+Worked on my portfolio:
+
+- Worked more on the nav for wide-screens.
+  -Made it so the blog is different from the rest of the in-page links. Now it's a button.
+  -Adjusted the bottom border of the nav to give it an underline feel.
+- Tried to fix color and buttons for small screens but couldn't get it right in time.
+
+Worked on Full-Stack Course on Codecademy:
+
+- Finished _Flexbox: To-Do App_ project.
+- Started Off-Platform Project: Tea Cozy.
+  - Created README.md and boilerplate html and css, so you can see the specs for this project.
+
+### Thoughts
+
+- Working through CSS on Codecademy and on my portfolio shows me that there are still a good amount of things I struggle on for front end development. An example is, I'm still unsure what the difference is between inline flex and flex containers. I just go `display: flex` on every contnainer I want as a flex container and it seems to work... until it doesn't. lol
+- I should've been making README.md files for every project I make. They do a good job of illustrating what the project is trying to accomplish.
+
+### Link(s) to work
+
+1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
+2. [Codecademy Project: Tea Cozy](https://github.com/jeffbalagosa/Codecademy-Tea-Cozy-Project)
+3. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
 ## Day 4: April 8 2022, Friday
 
 ### Today's Progress:
