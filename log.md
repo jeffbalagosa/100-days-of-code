@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 5: April 9 2022, Saturday
+## Day 5: April 9, 2022, Saturday
 
 ### Today's Progress:
 
@@ -28,7 +28,7 @@ Worked on Full-Stack Course on Codecademy:
 2. [Codecademy Project: Tea Cozy](https://github.com/jeffbalagosa/Codecademy-Tea-Cozy-Project)
 3. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
 
-## Day 4: April 8 2022, Friday
+## Day 4: April 8, 2022, Friday
 
 ### Today's Progress:
 
@@ -57,7 +57,7 @@ Worked on Full-Stack Course on Codecademy:
 1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
 2. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
 
-## Day 3: April 7 2022, Thursday
+## Day 3: April 7, 2022, Thursday
 
 ### Today's Progress:
 
@@ -85,7 +85,7 @@ Worked on Full-Stack Course on Codecademy:
 1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
 2. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
 
-## Day 2: April 6 2022, Wednesday
+## Day 2: April 6, 2022, Wednesday
 
 ### Today's Progress:
 
@@ -116,7 +116,7 @@ Worked on Full-Stack Course on Codecademy:
 1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
 2. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
 
-## Day 1: April 5 2022, Tuesday
+## Day 1: April 5, 2022, Tuesday
 
 ### Today's Progress:
 
