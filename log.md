@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+## Day 6: April 10, 2022, Sunday
+
+### Today's Progress:
+
+Worked on my portfolio:
+
+- Worked on the top nav for small screens. My changing the last li to a button messed things up for the mobile size.
+  - Buttons look better now. Matches the them a bit more.
+  - However the new li borders now appear on the larger screens.
+
+Worked on Full-Stack Course on Codecademy:
+
+- Worked on Off-Platform Project: Tea Cozy.
+  - Set main body colors and font stylings according to required specs in the css file.
+  - Create nav.
+  - Set display flex for nav's ul.
+  - Aligned items and sized logo to spec.
+
+### Thoughts
+
+- Building the nav to spec from scratch is so much easier than retrofitting it into an old project. I'm thinking I should just scrap my portfoloio and rebuild the whole thing from scratch. Or maybe spend the time to clean up the css. It's so unorganized now. So much trash.
+
+### Link(s) to work
+
+1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
+2. [Codecademy Project: Tea Cozy](https://github.com/jeffbalagosa/Codecademy-Tea-Cozy-Project)
+3. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
 ## Day 5: April 9, 2022, Saturday
 
 ### Today's Progress:
