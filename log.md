@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+## Day 7: April 11, 2022, Monday
+
+### Today's Progress:
+
+Worked on my portfolio:
+
+- Worked on the top and bottom nav for large screens.
+  -Alignment was off. There were also borders areound li elements that I didn't want there.
+
+Worked on Full-Stack Course on Codecademy:
+
+- Worked on Off-Platform Project: Tea Cozy.
+  -Nav now looks like how it does in the specs.
+  -Main section content and background is added. Layout is still kinda messed up.
+
+### Thoughts
+
+- I feel like the whole "mobile first" approach to my portfolio is making the css for the nav more difficult than it should be.
+  - Maybe I'll work on reorganizing my css tomorrow. ...maybe.
+- The tea cozy is coming along nicely. Not sure if flexbox is appropriate for this section, but this project is part of the flex section, so I guess I should try using it.
+- Today is my wife's birthday! Yet I'm alone in my home office working on this stuff, but I'm done for the day. I'll be a good husband and hang out with her.
+
+### Link(s) to work
+
+1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
+2. [Codecademy Project: Tea Cozy](https://github.com/jeffbalagosa/Codecademy-Tea-Cozy-Project)
+3. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
 ## Day 6: April 10, 2022, Sunday
 
 ### Today's Progress:
