@@ -1,5 +1,38 @@
 # 100 Days Of Code - Log
 
+## Day 8: April 12, 2022, Tuesday
+
+### Today's Progress:
+
+Worked on my portfolio:
+
+- Worked on organizing the css. It was a mess.
+- My header got messed up when I reorganized it.
+  - Didn't realize I put some of the declarations for a media query outside of the media query.
+  - Started editing CSS to fix. Messed things up even more.
+  - Finally found out what it was and was able to fix it.
+
+Worked on Full-Stack Course on Codecademy:
+
+- Worked on Off-Platform Project: Tea Cozy.
+  - Finished the Mission Section. Now it looks like how it should in the specs.
+  - Changed some classes to IDs for navigation.
+  - Added content to the next seation, Featured Teas.
+  - Made section a flex box container.
+
+## Worked on Off-Platform Project: Tea Cozy.
+
+### Thoughts
+
+- I don't agree with not working on courses during this challenge. If you don't know an entire concept, it may be too big for you to tackle without any hints or directions where to go. I know you can do course work outside of the challenge, but some of us are very pressed for time. I have a (more than) full time job. I'm committed to teach Jiu Jitsu, so I have to be at class at least 2x per week. I have kids with needs that need to be met. So I'd like to propose that it's OK to do coursework along side a particular project, as long as the course is specifically helping you with said project.
+- Not sure making the section a flex container is a good move. It contains the h2 and h4 heading. That should be 100% the width of the parent container in the spec. But I may be able to use flex-grow to make it stretch.
+
+### Link(s) to work
+
+1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
+2. [Codecademy Project: Tea Cozy](https://github.com/jeffbalagosa/Codecademy-Tea-Cozy-Project)
+3. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
 ## Day 7: April 11, 2022, Monday
 
 ### Today's Progress:
