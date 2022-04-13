@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day : April 13, 2022, Wednesday
+## Day 9: April 13, 2022, Wednesday
 
 ### Today's Progress:
 
