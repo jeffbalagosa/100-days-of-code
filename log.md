@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+## Day : April 13, 2022, Wednesday
+
+### Today's Progress:
+
+Worked on my portfolio:
+
+- Styled the bottom nav.
+  - Made some links disappear on small screens.
+  - Made one disappear on large screens.
+  - flexed the container on small screens.
+
+Worked on Full-Stack Course on Codecademy:
+
+- Worked on Off-Platform Project: Tea Cozy.
+  - Finished the Featured Teas section.
+  - Adjusted justify content, spacing, and sizing to spec.
+
+### Thoughts
+
+- Main layout and style of portfolio is pretty close to how I want it. Next step now is to start populating the portfolio section with _"Real actuol work..." -Peter, Office Space_
+- The Tea Cozy project is coming along like clockwork. I feel like I'm getting a better grasp of flex as well as what parent containers should be when making them flex boxes or any type of container, really.
+
+### Link(s) to work
+
+1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
+2. [Codecademy Project: Tea Cozy](https://github.com/jeffbalagosa/Codecademy-Tea-Cozy-Project)
+3. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
 ## Day 8: April 12, 2022, Tuesday
 
 ### Today's Progress:
@@ -19,8 +47,6 @@ Worked on Full-Stack Course on Codecademy:
   - Changed some classes to IDs for navigation.
   - Added content to the next seation, Featured Teas.
   - Made section a flex box container.
-
-## Worked on Off-Platform Project: Tea Cozy.
 
 ### Thoughts
 
