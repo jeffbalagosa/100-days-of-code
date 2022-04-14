@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log
 
+## Day 10: April 14, 2022, Thursday
+
+### Today's Progress:
+
+Worked on my portfolio:
+
+- Worked on background video.
+  - Put all content into a wrapper called _bg-overlay_
+  - Attempt to put video into html and position as background in css. Video isn't showing up. Also margins at top and bottom are kinda messedup now.
+  - Background video was too large to push to github. Took a while to figure out how to _un-commit_ the video file.
+
+Worked on Full-Stack Course on Codecademy:
+
+- Put more time into Tea Cozy Project.
+  - Added h2 and address cards to section.
+  - Styled background of address cards.
+  - Aligned items to spec, using flexbox.
+
+### Thoughts
+
+- I know, I know. I said I'd start adding to the portfolio section. But I saw an example of this yesterday and it really blew me away. So I think it'll be an eye catcher for hiring managers and recruiters. So it'll be worth the investment.
+- For the tea cozy project. The mockup image looks a little different as far as sizing. But upon inspection all looks right.
+- Worked way more than an hour on this #100DaysOfCode session. The large file size issue that was prventing me from pushing the commits up to github took a long time to figure out. Almost lost all of today's portfolio progress.
+
+### Link(s) to work
+
+1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
+2. [Codecademy Project: Tea Cozy](https://github.com/jeffbalagosa/Codecademy-Tea-Cozy-Project)
+3. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
 ## Day 9: April 13, 2022, Wednesday
 
 ### Today's Progress:
