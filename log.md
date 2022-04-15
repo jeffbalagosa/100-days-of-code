@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log
 
+## Day 11: April 15, 2022, Friday
+
+### Today's Progress:
+
+Worked on my portfolio:
+
+- Troubleshot why background video wasn't showing up. Found out the file was broken and it wasn't my css or html that was messed up.
+- Changed the video and it showed up on the page immediately.
+- Updated z-index on css to put it as the bottom layer.
+- Updated background of the main section so content in there isn't obscured.
+
+Worked on Full-Stack Course on Codecademy:
+
+- Completed Tea Cozy Project:
+
+  - Created and styled the contact section.
+  - Created and styled the footer to spec.
+
+- Started Grid Essentials section
+
+### Thoughts
+
+- The background video is perfect! Couldn't be happier with the result. Too bad I can't upload the video to github because of the size. Wish you guys could see it!
+- For the tea cozy project's contact section: The specs didn't specify hover state. But I thought it'd be good design to add underline text decoration on hover state to links. If this were a real client project, I'd have asked the client for an opinion.
+- Grid is review. I remember from the previous course they introduced Grid before Flexbox. I thought flexbox was a much easier way to do the same things for responsive websites. This time it's the other way around. And they way their introducing it, they're talking about how grid can handle multidimentional layouts, whereas flexbox is more for flat 2D designs. Interesting...
+
+### Link(s) to work
+
+1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
+2. [Codecademy Project: Tea Cozy](https://github.com/jeffbalagosa/Codecademy-Tea-Cozy-Project)
+3. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
+---
+
 ## Day 10: April 14, 2022, Thursday
 
 ### Today's Progress:
@@ -30,6 +64,8 @@ Worked on Full-Stack Course on Codecademy:
 2. [Codecademy Project: Tea Cozy](https://github.com/jeffbalagosa/Codecademy-Tea-Cozy-Project)
 3. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
 
+---
+
 ## Day 9: April 13, 2022, Wednesday
 
 ### Today's Progress:
@@ -57,6 +93,8 @@ Worked on Full-Stack Course on Codecademy:
 1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
 2. [Codecademy Project: Tea Cozy](https://github.com/jeffbalagosa/Codecademy-Tea-Cozy-Project)
 3. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
+---
 
 ## Day 8: April 12, 2022, Tuesday
 
@@ -89,6 +127,8 @@ Worked on Full-Stack Course on Codecademy:
 2. [Codecademy Project: Tea Cozy](https://github.com/jeffbalagosa/Codecademy-Tea-Cozy-Project)
 3. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
 
+---
+
 ## Day 7: April 11, 2022, Monday
 
 ### Today's Progress:
@@ -116,6 +156,8 @@ Worked on Full-Stack Course on Codecademy:
 1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
 2. [Codecademy Project: Tea Cozy](https://github.com/jeffbalagosa/Codecademy-Tea-Cozy-Project)
 3. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
+---
 
 ## Day 6: April 10, 2022, Sunday
 
@@ -145,6 +187,8 @@ Worked on Full-Stack Course on Codecademy:
 2. [Codecademy Project: Tea Cozy](https://github.com/jeffbalagosa/Codecademy-Tea-Cozy-Project)
 3. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
 
+---
+
 ## Day 5: April 9, 2022, Saturday
 
 ### Today's Progress:
@@ -172,6 +216,8 @@ Worked on Full-Stack Course on Codecademy:
 1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
 2. [Codecademy Project: Tea Cozy](https://github.com/jeffbalagosa/Codecademy-Tea-Cozy-Project)
 3. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
+---
 
 ## Day 4: April 8, 2022, Friday
 
@@ -202,6 +248,8 @@ Worked on Full-Stack Course on Codecademy:
 1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
 2. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
 
+---
+
 ## Day 3: April 7, 2022, Thursday
 
 ### Today's Progress:
@@ -229,6 +277,8 @@ Worked on Full-Stack Course on Codecademy:
 
 1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
 2. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
+---
 
 ## Day 2: April 6, 2022, Wednesday
 
@@ -260,6 +310,8 @@ Worked on Full-Stack Course on Codecademy:
 
 1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
 2. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
+---
 
 ## Day 1: April 5, 2022, Tuesday
 
