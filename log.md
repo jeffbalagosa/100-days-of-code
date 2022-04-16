@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log
 
+## Day 12: April 16, 2022, Saturday
+
+### Today's Progress:
+
+Worked on my portfolio:
+
+- Looked through old projects to see which one to showcase first.
+- Found the one I want and started editing placeholder content.
+- Started building buttons on the first article section in the portfolio.
+
+Worked on Full-Stack Course on Codecademy:
+
+- Went over setting grid rows and comlumns.
+  - The shortcut to defining them.
+  - The _repeat()_ function.
+  - The _minmax()_ function.
+- Setting spacing between grid items with Grid Gap.
+  - using _row-gap_.
+  - using _column-gap_.
+  - using the shorthand _gap_
+- Designing layouts with _grid-row-start_ & _grid-row-end_ and the shorthand _grid-row_.
+
+### Thoughts
+
+- Finally getting real projects up. It's a little intimidating. Not sure what to write about them yet, so I'll probably leave the dummy text on for a good while.
+- I'm not familiar with any of these types of declarations. Crazy how I didn't go over them in the Treehouse course. This is just as useful as flexbox.
+
+### Link(s) to work
+
+1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
+2. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
+---
+
 ## Day 11: April 15, 2022, Friday
 
 ### Today's Progress:
