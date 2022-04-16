@@ -25,6 +25,7 @@ Worked on Full-Stack Course on Codecademy:
 ### Thoughts
 
 - Finally getting real projects up. It's a little intimidating. Not sure what to write about them yet, so I'll probably leave the dummy text on for a good while.
+  - Also a little daunting because I'm sure there's a lot of refactoring to do.
 - I'm not familiar with any of these types of declarations. Crazy how I didn't go over them in the Treehouse course. This is just as useful as flexbox.
 
 ### Link(s) to work
