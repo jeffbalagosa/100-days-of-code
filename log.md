@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log
 
+## Day 13: April 17, 2022, Sunday
+
+### Today's Progress:
+
+Worked on my portfolio:
+
+- Styled article buttons.
+  - Nav buttons to either take you to the live site, or take you to the github repo.
+  - Made buttons behave like the blog button in the nav.
+  - Started testing different button behaviors and color schemes.
+
+Worked on Full-Stack Course on Codecademy:
+
+- Went over using _span_ for grid items. Did some exercises for illustration purposes. I'll need to remember that these need to be set on the items themselves, rather than the container.
+- Went over _grid-area_ shorthand. Did more exercises for illustration purposes. I get mixed up between normal and span declarations for setting where the grid stops.
+- Did exercises for reviewing all the grid concepts.
+
+### Thoughts
+
+- I should have styled the buttons for small screens similar to how my nav buttons work. Will work on that tomorrow.
+- Grid seems like it'll be less responsive than flexbox, when designing mobile first.
+
+### Link(s) to work
+
+1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
+2. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
+---
+
 ## Day 12: April 16, 2022, Saturday
 
 ### Today's Progress:
