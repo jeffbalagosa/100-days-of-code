@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log
 
+## Day 14: April 18, 2022, Monday
+
+### Today's Progress:
+
+Worked on my portfolio:
+
+- Styled article buttons for small screens.
+  - Made buttons look like nav buttons up top.
+  - Added buttons to the rest of the articles.
+  - Added ease transtions to the buttons to give a smoother feel.
+
+Worked on Full-Stack Course on Codecademy:
+
+- Took quiz on Grid Essentials. Got an 84%. (Good enough.)
+- Did excercises on Grid Template Areas.
+- Started section exercises on overlapping grid areas.
+
+### Thoughts
+
+- The small screen layout for my portfolio look more coherent now that the buttons in the article sections are similar.
+- Some parts of grid are still confusing. Like when to end _grid-column-end_ and _grid-row-end_... I need to reviw those.
+
+### Link(s) to work
+
+1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
+2. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
+---
+
 ## Day 13: April 17, 2022, Sunday
 
 ### Today's Progress:
