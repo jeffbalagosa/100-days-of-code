@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log
 
+## Day 15: April 19, 2022, Tuesday
+
+### Today's Progress:
+
+Worked on my portfolio:
+
+- Add ease in transition to h1.
+- Picked 3 more projects to showcase.
+  - Added appropriate screenshots to portfolio cards.
+  - Updated h3 of cards to match.
+
+Worked on Full-Stack Course on Codecademy:
+
+- Finished exercises for grid overlap section.
+- Finished exercises that introduces _justify-items_ in gird containers.
+- Finished exercises that introduces _justify-content_ in gird containers.
+- Finished exercises that introduces _align-items_ in gird containers.
+- Finished exercises that introduces _align-content_ in gird containers.
+- Finished exercises that introduces _align-self_ & _justify-self_ in gird items.
+- Read through section that talks about _implicit grids_ vs _explicit grids_.
+- Finished exercises that introduces _grid-auto-rows_ & _grid-auto-columns_ in gird containers.
+- Finished exercises that introduces _grid-auto-flow_ in gird containers.
+
+### Thoughts
+
+- I'll need to come up with 2 additional projects to showcase. I have a few others, but I don't think they're good enough to be on my portfolio.
+
+### Link(s) to work
+
+1. [My Developer Portfolio Project](https://github.com/jeffbalagosa/portfolio)
+2. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
+---
+
 ## Day 14: April 18, 2022, Monday
 
 ### Today's Progress:
