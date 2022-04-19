@@ -26,6 +26,7 @@ Worked on Full-Stack Course on Codecademy:
 ### Thoughts
 
 - I'll need to come up with 2 additional projects to showcase. I have a few others, but I don't think they're good enough to be on my portfolio.
+- Went through a lot of grid concepts in rapid succession in Codecademny. Crossing my fingers the info sticks!
 
 ### Link(s) to work
 
