@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 16: April 20, 2022, Wednesday
+
+### Today's Progress:
+
+Worked on Full-Stack Course on Codecademy:
+
+- Finished quiz on advanced grid concepts. Got an 84% on it. Good enough to move on.
+- Completed PupSpa grid practice exercises.
+- Completed Task board grid practice exercises.
+
+### Thoughts
+
+- I'm switching to focus soley on Codecademy until I fininsh the react portion of the course. I'm at the point where, if I had 6 good projects to showcase, I'd feel comfortable sharing it now. So working on my portfolio for half the time would give me diminishing returns. The projects I want to build will require heavier lifting in terms of JavaScript and React framework knowledge, so I think it's a better choice for now.
+
+### Link(s) to work
+
+1. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
+---
+
 ## Day 15: April 19, 2022, Tuesday
 
 ### Today's Progress:
