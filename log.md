@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 17: April 21, 2022, Thursday
+
+### Today's Progress:
+
+Worked on Full-Stack Course on Codecademy:
+
+- Reviewed relative sizing concepts in css.
+  - rems & ems
+  - percentages
+  - min-width, max-with, min-height, max-height
+- Took quiz on above concepts. First run got 75%. Second run 100%.
+- Reviewed media queries in css.
+
+### Thoughts
+
+- Relative sizing is review for me. I think I only got some things wrong on the quiz because I was groggy this morning. (Give me a break! Lol! I trained Jiu Jitsu last night. I never sleep well those nights.)
+- I thought media queries was going to be review, but there were suprisingly new concepts introduced. I've never worked with dpi or orientation, or used commas in media queries. What's also interesting is Codecademy's methodology of deciding "breakpoints" rather than just flat out designing mobile first. I like it!
+
+### Link(s) to work
+
+1. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
+---
+
 ## Day 16: April 20, 2022, Wednesday
 
 ### Today's Progress:
