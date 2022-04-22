@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+## Day 18: April 22, 2022, Friday
+
+### Today's Progress:
+
+Worked on Full-Stack Course on Codecademy:
+
+- Reviewed article on using Chrome dev tools to simulate different devices.
+  - Took and passed quiz questions.
+- Completed Tsunami Coffee exercises.
+  - The exercises focused on making an imaginary coffee store's website responsive to different screensizes.
+- Review documentation and research on css.
+- Started _Fotomatic_ off platform project.
+  - Downloaded files and created github repo.
+
+### Thoughts
+
+- The documentation and research section concept is super familiar to me. Working in IT for almost my entire adult life has taught me how valuable it is to be good at internet research - Google, Stack Overflow, MDN, Support Knowledgebases for purchased hardware and software, etc... This is every day life for me.
+
+### Link(s) to work
+
+1. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+2. [Codecademy Off Platform Project: Fotomatic](https://github.com/jeffbalagosa/fotomatic.git)
+
+---
+
 ## Day 17: April 21, 2022, Thursday
 
 ### Today's Progress:
