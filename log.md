@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 19: April 23, 2022, Saturday
+
+### Today's Progress:
+
+Worked on Full-Stack Course on Codecademy:
+
+- Continued on with the Fotomatic project.
+  - Got nav padding, height, and margins for desktop looking right. The logo section itself still looks smaller than spec, but I'll come back to that.
+  - Got the sign up section positioned according to spec on the desktop version.
+  - Added backgound image to the banner/hero section.
+  - Add z-index of 8 to keep nav bar on top during scrolling.
+
+### Thoughts
+
+- Having a real tough time figuring out how to get the .main-content section to stretch throughout the whole page on wide screens. Not sure what's keeping it contained and pushed to the left.
+
+### Link(s) to work
+
+1. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+2. [Codecademy Off Platform Project: Fotomatic](https://github.com/jeffbalagosa/fotomatic.git)
+
+---
+
 ## Day 18: April 22, 2022, Friday
 
 ### Today's Progress:
