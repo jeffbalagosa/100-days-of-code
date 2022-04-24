@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+## Day 20: April 24, 2022, Sunday
+
+### Today's Progress:
+
+Worked on Full-Stack Course on Codecademy:
+
+- Continued on with the Fotomatic project.
+  - Started a new branch to try mobile first approach.
+  - Scrapped all the media queries in the new branch.
+  - Started pulling over css declarations which (I think) are mobile first.
+  - Switched back to original branch.
+  - Reset original branch to initial commit to use it as a _desktop first_ version.
+  - Moved a bunch of css around in the main branch.
+
+### Thoughts
+
+- All night last night, I was thinking a mobile first approach was going to be simpler. And it probably would have, but found that mobile first is only simpler if you're starting from scratch. Not debugging someone else's code. Lesson learned.
+- I also realized that the css code is structured in such a way that the declarations were mostly valid. So it seems like they structured the project in a way that you mostly just have to move stuff around. ...maybe.
+- Based on this hunch I switched back, I decided to reset to the beginning via git. (Thank god for git! lol!)
+- At first I felt like I'm wasting so much time. Until I remembered, the object isn't about getting it done. The object is to learn, understand, and eventually master this stuff. So I'm doing exactly what I need to be doing.
+
+### Link(s) to work
+
+1. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+2. [Codecademy Off Platform Project: Fotomatic](https://github.com/jeffbalagosa/fotomatic.git)
+
+---
+
 ## Day 19: April 23, 2022, Saturday
 
 ### Today's Progress:
