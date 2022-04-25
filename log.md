@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 20: April 24, 2022, Sunday
+## Day 21: April 25, 2022, Monday
 
 ### Today's Progress:
 
