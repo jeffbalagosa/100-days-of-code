@@ -7,6 +7,31 @@
 Worked on Full-Stack Course on Codecademy:
 
 - Continued on with the Fotomatic project.
+  - Fixed header and banner section. They both now look like the spec sheet for desktop.
+  - Started fixing the features section.
+  - Noticed the container issue came back.
+  - Found that the pics were too large in that section. Once I adjusted their width to be 100% of their container, it got fixed.
+  - Fixed padding and margins around that section's content too.
+
+### Thoughts
+
+- Fixing the fotomatic desktop section is now flowing like water. I seem to have overcomplicated things with my two initial approaches. But we'll see.
+- As soon as I wrote the above sentence, the same issue I ran into before came back. It was the images inside the features all along. They were too big. It way too long to figure that out.
+
+### Link(s) to work
+
+1. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+2. [Codecademy Off Platform Project: Fotomatic](https://github.com/jeffbalagosa/fotomatic.git)
+
+---
+
+## Day 20: April 24, 2022, Sunday
+
+### Today's Progress:
+
+Worked on Full-Stack Course on Codecademy:
+
+- Continued on with the Fotomatic project.
   - Started a new branch to try mobile first approach.
   - Scrapped all the media queries in the new branch.
   - Started pulling over css declarations which (I think) are mobile first.
