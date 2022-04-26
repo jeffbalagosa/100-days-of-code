@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 22: April 26, 2022, Tuesday
+
+### Today's Progress:
+
+Worked on Full-Stack Course on Codecademy:
+
+- Continued on with the Fotomatic project.
+  - Feature content's bottom margin was too small, so I fixed that..
+  - Made the images container on the filters section a flex box.
+  - There was a typo on the quote declaration. Fixed that.
+  - Fixed padding in the quotes section.
+  - Removed media query for max-width: 890px on line 252. Seems unneccessary, but I may bring it back.
+
+### Thoughts
+
+- Didn't feel well yesterday or today. Still got it done though!
+
+### Link(s) to work
+
+1. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+2. [Codecademy Off Platform Project: Fotomatic](https://github.com/jeffbalagosa/fotomatic.git)
+
+---
+
 ## Day 21: April 25, 2022, Monday
 
 ### Today's Progress:
