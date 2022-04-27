@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+## Day 23: April 27, 2022, Wednesday
+
+### Today's Progress:
+
+Worked on Full-Stack Course on Codecademy:
+
+- Continued on with the Fotomatic project.
+  - No matter the changes I made, I couldn't get display: none to work on the .email class on the tablet media query. Found out it was a browser issue. Didn't work on chrome, but it worked fine on Firefox.
+  - Update the padding, flex, and alignment in features section to look like specs.
+  - Started adjusting elements in the quotes section.
+
+### Thoughts
+
+- Time just flew by this session!
+
+### Link(s) to work
+
+1. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+2. [Codecademy Off Platform Project: Fotomatic](https://github.com/jeffbalagosa/fotomatic.git)
+
+---
+
 ## Day 22: April 26, 2022, Tuesday
 
 ### Today's Progress:
