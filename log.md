@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 24: April 28, 2022, Thursday
+
+### Today's Progress:
+
+Worked on Full-Stack Course on Codecademy:
+
+- Continued on with the Fotomatic project.
+  - Adjusted padding for filter section.
+  - Adjusted padding, flex, and citation image for quotes section.
+  - Adjusted some fonts and padding for smallest media query.
+
+### Thoughts
+
+- Pretty sure I'm done with the project! That was tougher than I expected it to be.
+- What's cool is that by the time I got to the mobile version almost every style change was done. Using rem and percents really streamline the process of making things responsive.
+- Before I move on, I'm going to examine the solution to see how the _Pro_ handled it. Maybe I can pick up some tricks.
+
+### Link(s) to work
+
+1. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+2. [Codecademy Off Platform Project: Fotomatic](https://github.com/jeffbalagosa/fotomatic.git)
+
+---
+
 ## Day 23: April 27, 2022, Wednesday
 
 ### Today's Progress:
