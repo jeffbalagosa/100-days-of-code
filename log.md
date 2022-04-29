@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 25: April 29, 2022, Friday
+
+### Today's Progress:
+
+Worked on Full-Stack Course on Codecademy:
+
+- Studied the solution to the Fotomatic project.
+- Started _Challenge Project: Company Home Page with Flexbox_.
+  - Created repo on Github.
+  - Started added normal boiler plate stuff to html.
+  - Picked out picture for banner.
+
+### Thoughts
+
+- Not to toot my own horn, but in my version of the _Fotomatic_ project, I used waaay less media queries than the solution code to achieve the same result. I feel really great about it! Simpler code is more elegant in my opinion.
+- Immediately after that project is what seems like to me will be another long project. But I think this one will be more fun than the last because I get to do most of my own stuff.
+
+### Link(s) to work
+
+1. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+2. [Codecademy Challenge Project: Company Home Page with Flexbox](https://github.com/jeffbalagosa/company-home-page-with-flexbox.git)
+
+---
+
 ## Day 24: April 28, 2022, Thursday
 
 ### Today's Progress:
