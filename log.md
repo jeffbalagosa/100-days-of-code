@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 26: April 30, 2022, Saturday
+
+### Today's Progress:
+
+Worked on Full-Stack Course on Codecademy:
+
+- Worked on _Challenge Project: Company Home Page with Flexbox_.
+  - Added links to the nav.
+  - Started to populate header.
+  - Added normalize.css stylesheet.
+    -started adding style to nav section
+
+### Thoughts
+
+- Here we go again.. Obsessing about the nav section. Lol! I have to remember to keep this simple so I can advance to React JS.
+
+### Link(s) to work
+
+1. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+2. [Codecademy Challenge Project: Company Home Page with Flexbox](https://github.com/jeffbalagosa/company-home-page-with-flexbox.git)
+
+---
+
 ## Day 25: April 29, 2022, Friday
 
 ### Today's Progress:
