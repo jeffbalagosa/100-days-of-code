@@ -10,7 +10,7 @@ Worked on Full-Stack Course on Codecademy:
   - Added links to the nav.
   - Started to populate header.
   - Added normalize.css stylesheet.
-    -started adding style to nav section
+  - started adding style to nav section
 
 ### Thoughts
 
