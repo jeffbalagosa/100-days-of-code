@@ -14,7 +14,7 @@ Worked on Full-Stack Course on Codecademy:
 
 ### Thoughts
 
-- Pretty smooth sailing so var. I'm getting re-used to html and css style stuff. Just need to keep in mind to keep it simple enough to meet project criteria and move on.
+- Pretty smooth sailing so far. I'm getting re-used to html and css style stuff. Just need to keep in mind to keep it simple enough to meet project criteria and move on.
 
 ### Link(s) to work
 
