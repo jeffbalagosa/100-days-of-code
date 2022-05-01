@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 27: May 1, 2022, Sunday
+
+### Today's Progress:
+
+Worked on Full-Stack Course on Codecademy:
+
+- Worked on _Challenge Project: Company Home Page with Flexbox_.
+  - Finished nav section for small screens. Buttons look and function as they should.
+  - Worked on banner/header section.
+  - Added style and content to main articles section.
+  - Updated navication links for nav.
+
+### Thoughts
+
+- Pretty smooth sailing so var. I'm getting re-used to html and css style stuff. Just need to keep in mind to keep it simple enough to meet project criteria and move on.
+
+### Link(s) to work
+
+1. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+2. [Codecademy Challenge Project: Company Home Page with Flexbox](https://github.com/jeffbalagosa/company-home-page-with-flexbox.git)
+
+---
+
 ## Day 26: April 30, 2022, Saturday
 
 ### Today's Progress:
