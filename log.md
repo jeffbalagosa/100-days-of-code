@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 28: May 2, 2022, Sunday
+
+### Today's Progress:
+
+Worked on Full-Stack Course on Codecademy:
+
+- Worked on _Challenge Project: Company Home Page with Flexbox_.
+  - Filled out content for both programs area and instructors area of the fictional business site.
+  - Added some stylings for the cards of each out those sections to better show the flexbox concepts to be demonstrated.
+
+### Thoughts
+
+- I'm surprised how much time I take to find pictures for made up content. It's much easer if the content is just given to me. That's probably more likely to happen in a work situation.
+- I hope you notice the filler text I'm using. Lol!
+  - 10 points if you can guess who's quotes they are.
+
+### Link(s) to work
+
+1. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+2. [Codecademy Challenge Project: Company Home Page with Flexbox](https://github.com/jeffbalagosa/company-home-page-with-flexbox.git)
+
+---
+
 ## Day 27: May 1, 2022, Sunday
 
 ### Today's Progress:
