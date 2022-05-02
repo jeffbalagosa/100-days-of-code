@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 28: May 2, 2022, Sunday
+## Day 28: May 2, 2022, Monday
 
 ### Today's Progress:
 
