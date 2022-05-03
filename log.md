@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 29: May 3, 2022, Tuesday
+
+### Today's Progress:
+
+Worked on Full-Stack Course on Codecademy:
+
+- Worked on _Challenge Project: Company Home Page with Flexbox_.
+  - Finished small screen layout.
+  - Started playing around with flex on middle/tablet portrait layout.
+  - Tried to incorporate _flex-grow_ and _flex-basis_ properties but didn't like the result.
+
+### Thoughts
+
+- For the _advance_ technique so far, I'm just making myself as the main instructor bigger than the rest. (Ego much... Lol!)
+- I'll try to use _flex-grow_ with the bottom and top nav areas.
+
+### Link(s) to work
+
+1. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+2. [Codecademy Challenge Project: Company Home Page with Flexbox](https://github.com/jeffbalagosa/company-home-page-with-flexbox.git)
+
+---
+
 ## Day 28: May 2, 2022, Monday
 
 ### Today's Progress:
