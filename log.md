@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 30: May 4, 2022, Wednesday
+
+### Today's Progress:
+
+Worked on Full-Stack Course on Codecademy:
+
+- Worked on _Challenge Project: Company Home Page with Flexbox_.
+  - Finished media query for medium screen.
+  - Finished final media query for large screens.
+
+### Thoughts
+
+- I forgot to check the directions after all that work. I needed to add a mission statement to the page. Went back and retroactively added the section. Didn't cause any issue becaus my css was solid. Ha!
+
+### Link(s) to work
+
+1. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+2. [Codecademy Challenge Project: Company Home Page with Flexbox](https://github.com/jeffbalagosa/company-home-page-with-flexbox.git)
+
+---
+
 ## Day 29: May 3, 2022, Tuesday
 
 ### Today's Progress:
