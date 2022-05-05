@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+## Day 31: May 5, 2022, Thursday
+
+### Today's Progress:
+
+Worked on Full-Stack Course on Codecademy:
+
+- Finished _Challenge Project: Company Home Page with Flexbox_.
+  - Posted final project on Codecademy's forums. But if you all want to see it, the github link is still below.
+- Started going through the Front-End Engineer course to read articles, do exercises, and watch videos to make sure I fill any gaps to complete previous modules.
+  - Did some exercises that illustrate hue and talks about warm and cool colors.
+
+### Thoughts
+
+- I'm switching back to the front-end course.
+  - The reason being, I need to finish a course to get into a developer career quickly. Recent events have greatly increased the urgency for me.
+  - The benefit is that all the lessons I've done in the full stack course are transferrable to the front-end course.
+  - So instead of being 22% done in my current course, I'm now 31% done.
+  - I fully intend on going back and finishing the full stack course after I'm done with front end. I want to know it all and be the best developer I can be. (I'll probably learn Python first, because I have a _real money making_ project in mind. And I need to know Python to pull it off.) This isn't just for a career change. I want to master this discipline!
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [Codecademy Challenge Project: Company Home Page with Flexbox](https://github.com/jeffbalagosa/company-home-page-with-flexbox.git)
+
+---
+
 ## Day 30: May 4, 2022, Wednesday
 
 ### Today's Progress:
