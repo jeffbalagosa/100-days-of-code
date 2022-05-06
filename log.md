@@ -1,5 +1,48 @@
 # 100 Days Of Code - Log
 
+## Day 32: May 6, 2022, Friday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Learned about color theory and how to apply that to color schemes of a website.
+  - Did some exercises.
+  - Got 80% on the quiz, which is good enough for me not to retake it.
+  - Started _Journey Around The World Project_
+
+### Thoughts
+
+- I don't want to affirm that I'm bad at art. But boy it sure feels like it. It's hard for me to get colors that go well together, but I'm learning.
+- I just want to get past all this design stuff and get back to the engineering parts.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
+## Day 30: May 4, 2022, Wednesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Worked on _Challenge Project: Company Home Page with Flexbox_.
+  - Finished media query for medium screen.
+  - Finished final media query for large screens.
+
+### Thoughts
+
+- I forgot to check the directions after all that work. I needed to add a mission statement to the page. Went back and retroactively added the section. Didn't cause any issue becaus my css was solid. Ha!
+
+### Link(s) to work
+
+1. [Codecademy Full Stack Engineer Course.](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+2. [Codecademy Challenge Project: Company Home Page with Flexbox](https://github.com/jeffbalagosa/company-home-page-with-flexbox.git)
+
+---
+
 ## Day 31: May 5, 2022, Thursday
 
 ### Today's Progress:
