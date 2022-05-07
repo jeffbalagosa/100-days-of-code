@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+## Day 33: May 7, 2022, Saturday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished _Journey Around The World Project_
+- Started going over articles and practice exercises for UI colors.
+  - Contrast Contstraints
+  - What and how to handle Brand Colors.
+  - Accent Colors
+  - Styling primary, secondary, etc buttons
+  - Styling alert and warnings to keep users aware of them.
+  - Effective use of whitespace.
+  - Accessibility
+  - Etc...
+
+### Thoughts
+
+- Some of the stuff like having high contrast between background and font color seems common sense. Other stuff like whitespace usage and different categories of buttons make me want to change things in my portfolio right now! lol
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 32: May 6, 2022, Friday
 
 ### Today's Progress:
