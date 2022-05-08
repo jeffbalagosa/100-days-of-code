@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 33: May 8, 2022, Sunday
+## Day 34: May 8, 2022, Sunday
 
 ### Today's Progress:
 
