@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+## Day 33: May 8, 2022, Sunday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Started & finished the _Pinpoint E-Commerce_ site project.
+  - Not much to this project. They basically just give you some tasks to make the UX of the site better.
+  - Looks like it's meant to be a review for the UI color concepts and principles I learned in this section.
+  - Fairly easy and straight forward.
+- Started learning about text design.
+
+### Thoughts
+
+- Today is Mother's Day. It's the first Mother's Day since my mom passed away last November. I didn't feel like coding at all. I just wanted to lay in bed and shut all goals and responsibilities out. But I didn't. Discipline = Freedom!
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 33: May 7, 2022, Saturday
 
 ### Today's Progress:
