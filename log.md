@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 35: May 9, 2022, Monday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Learned more about text design.
+  - Got 100% on the quiz on the first try.
+- Started Reel Good Review project.
+  - Mostly a review project on the text design principles and concepts we just learned.
+
+### Thoughts
+
+- Text design seems to review most of the stuff I already learned during my copywriting days. I like how concepts taken from other arts & disciplines are applicable to dev.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 34: May 8, 2022, Sunday
 
 ### Today's Progress:
