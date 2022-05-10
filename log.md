@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 36: May 10, 2022, Tuesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished Reel Good Review project.
+
+### Thoughts
+
+- In some of these projects, the instructions aren't as clear as I'd like them to be.
+  - For example, the Reel Good Review project asked me to make all the headers of the page stand out. That's fine and all, but the headers of the page aren't really well defined. If this were a client or a job, I'd asked their content people, "What text on this page are headers?"
+- Also Codecademy site crashed 5 minutes before my hour was up. That's the first time this happened, hopefully it's doesn't keep happening.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 35: May 9, 2022, Monday
 
 ### Today's Progress:
