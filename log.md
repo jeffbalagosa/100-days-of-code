@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 37: May 11, 2022, Wednesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Started Responsive Club Project.
+
+### Thoughts
+
+- Once I compoleted the UI section, I got to skip ahead to the end of the _Make Websites Responsive Section_, because I already completed it in the Full-Stack Course. I'm using my company flexbox project website as a starter template. It pretty much already has the elements needed to finish this project. Media queries, size declarations written in rems, and the bonus of being mobile first.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+1. [Codecademy Responsive Club Project Repo.](https://github.com/jeffbalagosa/responsive-club-project.git)
+
+---
+
 ## Day 36: May 10, 2022, Tuesday
 
 ### Today's Progress:
