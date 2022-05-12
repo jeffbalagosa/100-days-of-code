@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 38: May 12, 2022, Thursday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished Responsive Club Project.
+- Read through articles that are new to the JavaScript I and JavaScript II modules.
+- Started JavaScript II module quiz. It was part of the new/incompleted items on the JS II module.
+
+### Thoughts
+
+- Finally back to JavaScript!
+- I feel kinda bad using an old project as a template for the Responsive club project, but I really needed to get passed the HTML CSS stuff. Yesterday a colleague told me that the dev interview will most likely include grilling me on data structures & algorithms. So it reiterated the fact that I need to get back to the programming parts.
+- The JS II quiz made me realize I'm super rusty now. I'll get it back though.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+1. [Codecademy Responsive Club Project Repo.](https://github.com/jeffbalagosa/responsive-club-project.git)
+
+---
+
 ## Day 37: May 11, 2022, Wednesday
 
 ### Today's Progress:
