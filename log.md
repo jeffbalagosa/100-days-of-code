@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 39: May 12, 2022, Friday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Took me around 8 or so tries, but I eventually got 100% on the JavaScript II Sytax quiz. It went over methods like _.ForEach() .map() .filter()_ etc... It's been a minute since I did that, so I was super rusty.
+- There was a lot of stuff that I already did for JavaScript II so I got to skip around to the new and Front-End exclusive stuff that I hadn't done in the last course.
+- Started a video that intruduced and explained what the DOM is. It's review since I've already done stuff with Dom manipulation, but not enough to say that I can do it all.
+
+### Thoughts
+
+- I don't know if it was because I trained last night and was tired because of it. But it felt like I was extra stupid today. I kept getting the same questions wrong in the quiz. I need to get around to doing more code challenges.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 38: May 12, 2022, Thursday
 
 ### Today's Progress:
