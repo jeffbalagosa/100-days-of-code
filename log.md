@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log
 
-## Day 39: May 12, 2022, Friday
+## Day 40: May 14, 2022, Saturday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished the video I started yesterday. It did a good job reminding me the difference between the DOM and HTML. It also did a good job explaining parent/child relationships within a tree data structure.
+- Did some exercises and walkthroughs on changing and adding dom elements, both in HTML and CSS.
+
+### Thoughts
+
+- Another day of feeling stupid. My neck is killing me from Jiu Jitsu. I didn't have time to do a full hour before I taught class today. So I had to split my hour in half. Got it done though. Time for a nap.
+- I may look up simple retro games in JavaScript. I have an ideaq for my portfolio.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
+## Day 39: May 13, 2022, Friday
 
 ### Today's Progress:
 
