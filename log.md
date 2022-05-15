@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 41: May 15, 2022, Sunday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished going through exercises and articles about the DOM and manipulating it.
+- Took the quiz at the end and got a 93%.
+- Started video that review how it all ties together and how to attach the JS file to your html.
+
+### Thoughts
+
+- I'm so tempted to start adding the JS to my portfolio! But I'm sticking to my guns on this. _NO_ portfolio work until _AFTER_ I finish the react sections.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 40: May 14, 2022, Saturday
 
 ### Today's Progress:
@@ -7,7 +27,7 @@
 Worked on Front-End Course on Codecademy:
 
 - Finished the video I started yesterday. It did a good job reminding me the difference between the DOM and HTML. It also did a good job explaining parent/child relationships within a tree data structure.
-- Did some exercises and walkthroughs on changing and adding dom elements, both in HTML and CSS.
+- Did some exercises and walkthroughs on changing and adding DOM elements, both in HTML and CSS.
 
 ### Thoughts
 
