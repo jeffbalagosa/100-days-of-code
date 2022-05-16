@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+## Day 42: May 16, 2022, Monday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished video I started yesterday. It was basically a review for the module I completed.
+- Started going over event handlers and their uses.
+- Couple of examples of built in JS functions in this module are...
+  - .onclick
+  - .target
+
+### Thoughts
+
+- Not sure if I'm just tired, but the instructions for each exercise don't really seem clear on what they actually want you to do. Once I decifer what they want, then I generally get the syntax right.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 41: May 15, 2022, Sunday
 
 ### Today's Progress:
