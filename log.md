@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 43: May 18, 2022, Tuesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Got through all the articles and exercises for event handlers.
+- Took quiz and got 88%.
+- Started the _Piano Keys_ project.
+
+### Thoughts
+
+- These functions for events are tricky. I don't feel like I have a firm grasp on this yet, so I'll have to make sure I practice this more.
+  - Sometimes you need to define what you want something change to inside of parenthesis, and thers after the equal sign. Still not sure what differentiates the two.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 42: May 16, 2022, Monday
 
 ### Today's Progress:
