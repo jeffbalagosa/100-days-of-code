@@ -1,6 +1,27 @@
 # 100 Days Of Code - Log
 
-## Day 43: May 18, 2022, Tuesday
+## Day 44: May 18, 2022, Wednesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Continued working on the _Piano Keys_ project.
+
+### Thoughts
+
+- Codecademy offers walkthroughs of some of these projects if you get stuck. This one is no exception. I generally don't have to use them to complete projects. But this one is really kicking my @$$! I've been watching it for every task.
+- There's some good that's coming out of it though. Had a small "AHA!" moment on step 12. I finally get what's happening in these event handlers.
+  - For some reason, I was thinking that we're just defining these functions after writing down the events. But we're actually doing both calling as well as defining them in the same statment. I don't think I've ever done that, so it was foreign to me.
+  - I'll try downloading the code and post it on my git later so ya'll can see what I'm talking about.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
+## Day 43: May 17, 2022, Tuesday
 
 ### Today's Progress:
 
