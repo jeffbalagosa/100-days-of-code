@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 45: May 19, 2022, Thursday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished the _Piano Keys_ project.
+- Went over form validation.
+  - ...via html.
+  - ...via client side JavaScript.
+  - ...via back end database.
+
+### Thoughts
+
+- As promised, I uploaded the project to GitHub and put the link below for your viewing pleasure.
+- The last half was easy. It was just mostly copy and paste of previously built statements. I juat had to change HTML IDs and variables values for the tasks asked of me.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [Piano Keys Project.](https://github.com/jeffbalagosa/piano-keys.git)
+
+---
+
 ## Day 44: May 18, 2022, Wednesday
 
 ### Today's Progress:
