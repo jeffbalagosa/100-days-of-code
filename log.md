@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 46: May 20, 2022, Friday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Went over HTML forms.
+  - Text inputs.
+  - Checkboxes.
+  - Radio inputs.
+  - Select elements.
+  - Datalists.
+
+### Thoughts
+
+- Used binaural beats at 40hz. Focus was much better this time, and even while super tired from Jiu Jitsu last night! Feel free to google _Andrew Huberman 40hz Binaural Beats_, if you're inclined to know more.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 45: May 19, 2022, Thursday
 
 ### Today's Progress:
