@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+## Day 47: May 21, 2022, Saturday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished HTML forms module.
+- Almost done with HTML form validation.
+  - Got 100% on the quiz, first try!
+- Started the Form a Story project.
+  - About halfway done...
+
+### Thoughts
+
+- Used binaural beats to study again. Could be placebo, but I think it's helping!
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 46: May 20, 2022, Friday
 
 ### Today's Progress:
