@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 48: May 22, 2022, Sunday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished the _Form a Story project_.
+- Started the _Accessibility Module_.
+
+### Thoughts
+
+- Late last night I started making a list randomizer/picker web app for the hell of it. I could have easily added that time to this challenge, but decided not to, for the sake of _taking the hard road_. It's my usually M.O. But, I'm considering adding it to my portfolio when I'm done.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 47: May 21, 2022, Saturday
 
 ### Today's Progress:
@@ -9,7 +28,7 @@ Worked on Front-End Course on Codecademy:
 - Finished HTML forms module.
 - Almost done with HTML form validation.
   - Got 100% on the quiz, first try!
-- Started the Form a Story project.
+- Started the _Form a Story project_.
   - About halfway done...
 
 ### Thoughts
