@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 49: May 23, 2022, Monday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished the _Accessibility Module_.
+- Started _CSS animations_ module.
+
+### Thoughts
+
+- The accessibility module took longer than I thought it would. I wonder how this is done in real world application. Sure it's things like aria-label is implemented on big sites like Facebook or The New York Times. But smaller sites like _Vegas.com_ use it? How about _Resorts Stay International_?
+- CSS animations will be another review for me. I've learned transitions from other places. But let's see what else I can learn.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 48: May 22, 2022, Sunday
 
 ### Today's Progress:
