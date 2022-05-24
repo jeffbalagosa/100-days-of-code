@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 50: May 24, 2022, Tuesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Continued _CSS Animations Module_.
+
+### Thoughts
+
+- Going over transitions part was pretty easy, I got a 91% on the quiz on the first try.
+- The advanced part using @keyframes was a little more confusing.
+  - Codecademy decided to use an article then give coding challenges. The article wasn't really helpful for the coding challenges. Had to google a little and still couldn't find the answers until ran up. My have to query the community later.
+- Outside the challenge, I worked a lot on the Pick or Shuffle web app. It's coming along. But the code is messy. Still in more of a _rapid prototype_ phase.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 49: May 23, 2022, Monday
 
 ### Today's Progress:
