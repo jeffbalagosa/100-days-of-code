@@ -1,12 +1,35 @@
 # 100 Days Of Code - Log
 
+## Day 51: May 25, 2022, Wednesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished _CSS Animations_ Module.
+- Went back into _Git & GitHub Part 1_ module.
+  - Got to skip ahead again.
+  - Finished a good chuck of git in the Full Stack course.
+  - I also use git, github, & gitlab daily. So I'm pretty familiar with it. And (a little) familiar how to work with a team in git.
+
+### Thoughts
+
+- The advanced animations with using @keyframes really kicked my @$$. Codecademy doesn't really give you much in the way of walkthroughs and code alongs. They present it in more of an _aside_ article with code challenges. I did 2 challenges and decided that I can look the rest up when I need to use it. I have a good grasp of what's possible with them, I can look up syntax to fill in the gaps.
+- Learned some new things about git. Totally didn't realize I can combine commands. I'll test the extent of this later. I also learned that you can create your own shorthands for long commands. I'll have to also experiment later.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 50: May 24, 2022, Tuesday
 
 ### Today's Progress:
 
 Worked on Front-End Course on Codecademy:
 
-- Continued _CSS Animations Module_.
+- Continued _CSS Animations_ Module.
 
 ### Thoughts
 
