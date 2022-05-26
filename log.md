@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+## Day 52: May 26, 2022, Thursday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished back into _Git & GitHub Part 1_ module.
+  - Took quiz.
+- "Started" portfolio project.
+
+### Thoughts
+
+- I mis-spoke yesterday about my confidence using git and github.
+  - I'm good with using git as an individual.
+  - But I'm unfamiliar with the work flow of working within a team.
+  - The quiz really showed me that.
+  - My Anki flashcards are now filled with stuff I need to remember.
+- It's ironic that the section I'm on now is to build a portfolio site. Lol! I'll make sure I meet the project requirements before moving on.
+  - The page itself will be completed for the project, but I still want to add 2 projects on there before showing it to potential employers.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 51: May 25, 2022, Wednesday
 
 ### Today's Progress:
