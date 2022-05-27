@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 53: May 27, 2022, Friday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Worked on Codecademy _Portfolio Project_
+  - Added JavaScript for interactivity.
+  - Added JavaScript Chance library to help with randomization.
+  - Added click functionality to header.
+
+### Thoughts
+
+- Adding and using the .onclick function was super easy this time around!
+- The functionality I added is more of an Easter Egg and pretty rudimentary right now. Will work on getting it better later.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [My Portfolio Project](https://github.com/jeffbalagosa/portfolio/tree/from-scratch)
+
+---
+
 ## Day 52: May 26, 2022, Thursday
 
 ### Today's Progress:
