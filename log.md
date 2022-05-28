@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+## Day 54: May 28, 2022, Saturday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Worked on Codecademy _Portfolio Project_
+  - Changed the background video to an image, but kept the overlay
+  - Had to update the css to make it look as clean as possible.
+
+### Thoughts
+
+- I've pretty much fulfilled all the requirements for the project, except for launching it publicly. I just don't feel like it's ready for that.
+  - There's still 2 placehoders where two more projects can go.
+  - I'd like a better background image. May have to bite the bullet and buy one.
+  - I'd still like to attach a blog with a CMS to the site too.
+- I made the difficult decision to remove the video and opt for a background image.
+  - The video was super cool but it hogged too much resources.
+  - My h1's glow effect is much better now, but my background has a repeat on the verticle axis. I don't like it, it bothers me.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [My Portfolio Project](https://github.com/jeffbalagosa/portfolio/tree/from-scratch)
+
+---
+
 ## Day 53: May 27, 2022, Friday
 
 ### Today's Progress:
