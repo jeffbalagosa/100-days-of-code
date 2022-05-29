@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 55: May 29, 2022, Sunday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished CodeCademy's requirements for my _Portfolio Project_
+  - All except making it public.
+  - That won't happen until it's polished.
+- Started working through the _JavaScript Classes_ module.
+
+### Thoughts
+
+- Learning about classes is pretty exciting! There's a lot I thought I knew about classes, which turns out wasn't the case.
+  - Up until now, I assumed classes were objects with methods built in. They are actually two different things.
+  - Yes they are similar, but there are key differences. Like constructors and the lack of commas between functions.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [My Portfolio Project](https://github.com/jeffbalagosa/portfolio/tree/from-scratch)
+
+---
+
 ## Day 54: May 28, 2022, Saturday
 
 ### Today's Progress:
