@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 56: May 30, 2022, Monday (Memorial Day)
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Got through most of the _JavaScript Classes_ module.
+- Made some flash cards for old stuff I should have committed to memory by now. Like how to make a proper getRandomNumber(min, max) number. (Max inclusive and Min inclusive.)
+
+### Thoughts
+
+- Learned about the concepts of Inheritance and extending classes.
+  - Learned what _super_ does within an extended class.
+  - Learned _static_ methods and how/when they are used.
+  - Thought I wasn't getting it because the assignments kept erroring out... But realized it was just a typo. (Overthinking much!?)
+- **Happy Memorial Day** everyone! Don't forget to thank our wonderful soldiers in the armed services. They make sacrifices for our country's sake!
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 55: May 29, 2022, Sunday
 
 ### Today's Progress:
