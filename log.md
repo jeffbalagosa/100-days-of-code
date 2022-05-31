@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 57: May 31, 2022, Tuesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished _JavaScript Classes_.
+  - Got a 90%, but it took me 2 tries. lol
+- Made more Anki flashcards.
+- Started working on the _Build A Library_ project.
+
+### Thoughts
+
+- I'm still shaky on classes. I tried to go through each of the project tasks without using any hints or walkthroughs, but found that I was getting stuck a lot.
+- There were new concepts that the walkthrough went over that I haven't seen before. Lke using a not operator to toggle between a boolean value.
+- I also noticed that I'm also still sketchy when it comes to methods that use call back functions. I need more practice on those.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 56: May 30, 2022, Monday (Memorial Day)
 
 ### Today's Progress:
