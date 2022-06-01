@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 58: June 1, 2022, Wednesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished the _Build A Library_ project.
+- Started the _School Catalogue_ project.
+
+### Thoughts
+
+- Starting to get a hang of it. The _this.\_property = property, getters, & setters_ concepts are making more sense to me now. As does the concept of inheritance. Feel better about this project than the previous _Build A Library_ project.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 57: May 31, 2022, Tuesday
 
 ### Today's Progress:
