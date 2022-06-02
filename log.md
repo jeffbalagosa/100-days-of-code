@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 59: June 2, 2022, Thursday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished the _School Catalogue_ project.
+- Started article and code challenges on _Modules_.
+  - Import
+  - Export
+
+### Thoughts
+
+- Almost 2 months in! To be honest, I thought I'd be going through this course a little faster. But I do have another portfolio project done and some good starts to README.md files for my projects.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 58: June 1, 2022, Wednesday
 
 ### Today's Progress:
