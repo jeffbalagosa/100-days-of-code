@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 60: June 3, 2022, Friday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished article and code challenges for ES6 _Modules_
+- Working through the tasks in the in-house project: _WorkAround Explorer_
+
+### Thoughts
+
+- I'm **very** tired today. Couldn't sleep at all after Jiu Jitsu. I was really just _going through the motions_ to get this hour done. And I'm ok with that.
+- My brain just can't absorb the syntax for exporting and importing modules. I read them, then forget them mere minutes later.
+- But I made it! Completed month two, baby! Hell yeah!
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 59: June 2, 2022, Thursday
 
 ### Today's Progress:
