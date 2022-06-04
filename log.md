@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 61: June 4, 2022, Saturday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished in-house project: _WorkAround Explorer_
+
+### Thoughts
+
+- The importing and exporting values from modules and the _WorkAround Explorer_ project was very poorly done.
+  - I don't expect hand holding, but I do expect some sort of direction given if you are totally lost. This one doesn't have any of that. If you get stuck, it pretty much directs you to the forum.
+- Also the entire module is taught in 1 long article. Sure, there are code challenges in the article, but the moment you refresh the page, it resets. So you won't have any notes to go back to if you need them.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 60: June 3, 2022, Friday
 
 ### Today's Progress:
