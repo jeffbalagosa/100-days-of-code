@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 62: June 5, 2022, Sunday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished _Pair Programming_ informational.
+- Started _JavaScript Practice: Classes_ code challenges.
+
+### Thoughts
+
+- I've read _The Pragmatic Programmer_ by David Thomas & Andrew Hunt and am currently reading _The Clean Coder_ by Robert C. Martin (aka Uncle Bob). Both books seem to be highly regarded staples of the industry and both books highly recommend pair programming for writing clean code. Now CodeCademy reccommends it. I'm hoping my first job realizes the value in this practice and implements it.
+- The classes code challenges are very difficult.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 61: June 4, 2022, Saturday
 
 ### Today's Progress:
