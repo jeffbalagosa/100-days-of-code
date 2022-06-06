@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 63: June 6, 2022, Monday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Continued working through _JavaScript Practice: Classes_ code challenges.
+
+### Thoughts
+
+- Wow these are tough! I know I said the same thing yesterday, but damn! I need more practice with building and using classes. The one I'm on right now wamnts me to build a class that takes a string then you can use the class methods to either encrypt or decript that string. The class encourages you to use these string methods that I've never even heard of. And the MDN explanation of what these methods do have me looking up dictionary terms ever other word.
+- I need more practice with them.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 62: June 5, 2022, Sunday
 
 ### Today's Progress:
