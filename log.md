@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 64: June 7, 2022, Tuesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished the _JavaScript Practice: Classes_ code challenges. (Sort of.)
+- Started the _Challenge Project: Find Your Hat_.
+- Decided to restart the _JavaScript Syntax, Part III: Classess_ and the _JavaScript Practice: Classes_ code challenges.
+
+### Thoughts
+
+- I'm having a really tough time with these. Classes seem pretty straight forward when going through the course, but the challenges were very confusing. They were all too difficult for me to complete without looking at the solutions.
+- Then I got to the find _Challenge Project: Find Your Hat_. I couldn't even get the constructor properties right.
+- Although really discouraging, I had to remind myself, this challenge isn't about finishing. It's about learning. I don't want to just finish the course. I want to be exceptional at the discipline of programming.
+- So... Even though it's going to take even more struggle, I'm starting these classes and will restart them over and over until I grasp it. Jiu Jitsu was really confusing for half a decade. If I could struggle through that and make it to black belt. I can struggle through this too...
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+1. [Challenge Project: Find Your Hat](https://github.com/jeffbalagosa/find-your-hat)
+
+---
+
 ## Day 63: June 6, 2022, Monday
 
 ### Today's Progress:
