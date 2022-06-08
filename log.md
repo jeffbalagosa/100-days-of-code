@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 65: June 8, 2022, Wednesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Started going back over the _JavaScript Syntax, Part III: Classess_ material and exercises.
+
+### Thoughts
+
+- Like before, the practices amd articles seem pretty straight forward. It's even easier now that I've already gone through them. The problem is that the examples we go over are too simplistic.
+- Once you get into the challenges, later in the course, you're required not only to use constructors, but also include some pretty tricky methods within the functions.
+  - They call on and edit the properties inside of the constructors in weird ways. The course material says that you aren't supposed to call on **this.\_whatever directly**, but use the getters instead. But then the solutions show otherwise... The inconsistency is maddening!
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 64: June 7, 2022, Tuesday
 
 ### Today's Progress:
