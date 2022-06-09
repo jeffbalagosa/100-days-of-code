@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 66: June 9, 2022, Thursday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished material, exercises, and quiz for _JavaScript Syntax, Part III: Classess_.
+- Restarted the Build A Library project.
+
+### Thoughts
+
+- All seems easy so far. Even easier than the last because I just went over this. I'm starting to think that maybe the gap in knowledge isn't about classes themselves, but problem solving and understanding the particular tasks of the chanllenge projects that got me before I decided to restart this course. That makes things worse, because ambiguity about instructions are harder to solve when you can't ask the person that wrote the course.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 65: June 8, 2022, Wednesday
 
 ### Today's Progress:
