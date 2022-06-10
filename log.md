@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 67: June 10, 2022, Friday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Continued working on the _Build A Library_ project.
+
+### Thoughts
+
+- So far, I haven't had to use the video walkthrough. But I am having a hard time with the .reduce method I'm supposed to use for one of the tasks.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 66: June 9, 2022, Thursday
 
 ### Today's Progress:
@@ -7,7 +25,7 @@
 Worked on Front-End Course on Codecademy:
 
 - Finished material, exercises, and quiz for _JavaScript Syntax, Part III: Classess_.
-- Restarted the Build A Library project.
+- Restarted the _Build A Library_ project.
 
 ### Thoughts
 
