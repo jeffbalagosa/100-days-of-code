@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 69: June 12, 2022, Sunday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished the _School Catalogue_ project.
+- Re-Started the _JavaScript Practice: Classes_ code challenges.
+
+### Thoughts
+
+- School Cataloge went by pretty easy. The pickSubstituteTeacher method was easier to create than I had thought yesterday.
+- Now for challenges. These were **really difficult** the first time around. Got through the first challenge fairly easy. I didn't remember what I did the first time around, because I looked up the solution after getting fustrated. Didn't need that this time and was able to finish it without it. Just started challenge 2 before time ran out.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 68: June 11, 2022, Saturday
 
 ### Today's Progress:
