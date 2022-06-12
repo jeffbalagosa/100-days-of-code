@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 68: June 11, 2022, Saturday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished the _Build A Library_ project.
+- Re-started the _School Catalogue_ project.
+
+### Thoughts
+
+- Figured out what I was missing for the .reduce method. Breezed right through the reset of the _Build A Library_ project.
+- Having a bit of trouble with the pickSubstituteTeacher method in the School Catalogue project. Not sure how to initialize an argument as a string. But time ran out before I could try some solutions.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 67: June 10, 2022, Friday
 
 ### Today's Progress:
