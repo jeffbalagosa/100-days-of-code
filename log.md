@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 70: June 12, 2022, Monday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished 2 of 3 _JavaScript Practice: Classes_ code challenges.
+
+### Thoughts
+
+- 2nd challenge was pretty tough still. I had to look at the solution to fix my code.
+- I have a feeling that there is something wrong with the test to validate my solution. My solution did all the same things as the Codecademy solution, but the result wasn't the same. Then I copied the solution but rearranged function format (from arrow to standard function), and renamed some variables. It passed that time. Hope that was enough to be able to understand classes they way they want me to.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 69: June 12, 2022, Sunday
 
 ### Today's Progress:
@@ -12,7 +31,8 @@ Worked on Front-End Course on Codecademy:
 ### Thoughts
 
 - School Cataloge went by pretty easy. The pickSubstituteTeacher method was easier to create than I had thought yesterday.
-- Now for challenges. These were **really difficult** the first time around. Got through the first challenge fairly easy. I didn't remember what I did the first time around, because I looked up the solution after getting fustrated. Didn't need that this time and was able to finish it without it. Just started challenge 2 before time ran out.
+- Now for challenges. These were **really difficult** the first time around. Got through the first challenge fairly easy. I didn't remember what I did the first time around, because I looked up the solution after getting fustrated. Didn't need that this time and was able to finish it without it.
+- Just started challenge 2 before time ran out.
 
 ### Link(s) to work
 
