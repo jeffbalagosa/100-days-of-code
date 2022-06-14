@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 71: June 14, 2022, Tuesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished 2.5 of 3 _JavaScript Practice: Classes_ code challenges.
+
+### Thoughts
+
+- Woah! Major breakthrough! The 3rd challenge was tough and is broken up into two parts. I was able to do the first part by working through it! Without looking at any of the solution. It's crazy but also fun to think that there are even harder challenges out there!
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 70: June 12, 2022, Monday
 
 ### Today's Progress:
