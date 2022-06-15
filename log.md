@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 72: June 15, 2022, Wednesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished all 3 _JavaScript Practice: Classes_ code challenges.
+- Restarted the _Find Your Hat Challenge Project_.
+  - Build the first constructor for the field class.
+  - Built the first .print method required.
+
+### Thoughts
+
+- Silly me thinking I actually solved the first part of the 3rd problem yesterday. The if statement I used to "wrap" code wasn't doing what I thought it was doing. The second test kept failing miserably becuase it had values out of bounds.
+- However, I was eventually able to figure it out by stepping a little bit away from the problem. I used 2 while loops instead. And that shit actually worked! First and second tests passed.
+- Now onto the _Find Your Hat Challenge Project_. This was the one that kicked my ass last time and caused me to restart the whole classes course. Now I know it's not really my understanding of classes that was screwing me up. It really is a combination of me not understanding the directions and me needing to get better at algorithms. Let's see how I do this time around.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [Find Your Hat Challenge Project.](https://github.com/jeffbalagosa/find-your-hat)
+
+---
+
 ## Day 71: June 14, 2022, Tuesday
 
 ### Today's Progress:
