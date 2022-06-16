@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 73: June 16, 2022, Thursday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Continued working on the _Find Your Hat Challenge Project_.
+  - Built functionality to capture user input to move character.
+  - Added functionality of getting the current player's location.
+
+### Thoughts
+
+- Not stuck yet. And I'm further along than last time. So that's good. However, there's still a lot more to do.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [Find Your Hat Challenge Project.](https://github.com/jeffbalagosa/find-your-hat)
+
+---
+
 ## Day 72: June 15, 2022, Wednesday
 
 ### Today's Progress:
