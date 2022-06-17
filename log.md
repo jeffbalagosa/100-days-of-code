@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+## Day 74: June 17, 2022, Friday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Continued working on the _Find Your Hat Challenge Project_.
+  - Experimented with different ways of locating and moving player.
+
+### Thoughts
+
+- Got stuck trying to figure out how to show the current index of the player's position in a multidimensional array.
+  - Apparently .indexof method falls apart here, because the strict === usage. [0, 1] ==== [0, 1] turns out to be false. I can't find a satisfying answer as to why this is the case. But most answers I find online will use a for or while loop to traverse array and find it, or flatten the array.
+- Figured I was spending too much time on getting the player's current positon to display as an array. I don't think I really need it for this project. So I decided to move onto movement of the \*.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [Find Your Hat Challenge Project.](https://github.com/jeffbalagosa/find-your-hat)
+
+---
+
 ## Day 73: June 16, 2022, Thursday
 
 ### Today's Progress:
