@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 75: June 18, 2022, Saturday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Continued working on the _Find Your Hat Challenge Project_.
+  - Mainly worked on moving the player and showing movement.
+
+### Thoughts
+
+- After a couple hours of struggle, I finally figured out how to move the player's character. It was the wrong way. But it didn't error out or show no movement at all. That's progress in my book!
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [Find Your Hat Challenge Project.](https://github.com/jeffbalagosa/find-your-hat)
+
+---
+
 ## Day 74: June 17, 2022, Friday
 
 ### Today's Progress:
