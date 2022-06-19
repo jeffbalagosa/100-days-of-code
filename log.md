@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 76: June 19, 2022, Sunday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Continued working on the _Find Your Hat Challenge Project_.
+  - Still worked on moving the player and showing movement.
+  - Worked on creating validation functions for declaring win, declaring loss, or advancing the player.
+
+### Thoughts
+
+- Another rough day today. This is the 3rd Father's day since my Dad passed in 2019. My dad duel engineered in the electrical and mechanical fields. He was one of the smartest men I ever knew. I idolized him for it. In a way, my goal for becoming a software engineer is in his honor.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [Find Your Hat Challenge Project.](https://github.com/jeffbalagosa/find-your-hat)
+
+---
+
 ## Day 75: June 18, 2022, Saturday
 
 ### Today's Progress:
