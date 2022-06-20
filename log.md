@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 77: June 20, 2022, Monday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Continued working on the _Find Your Hat Challenge Project_.
+  - Continued working on movement and validating win/loss conditions.
+  - Further along than yesterday.
+
+### Thoughts
+
+- I feel like I'm close to finishing this one. It feels a little cheap. I had to go through completed projects to find some inspiration. Basically using the Stack Overflow/Rubber duck debugging approach. Needed to change a lot of my code to make sure things I found useful could work. But it's a good sign that I understand it.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [Find Your Hat Challenge Project.](https://github.com/jeffbalagosa/find-your-hat)
+
+---
+
 ## Day 76: June 19, 2022, Sunday
 
 ### Today's Progress:
