@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 78: June 21, 2022, Tuesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished the _Find Your Hat Challenge Project_.
+- Started working on _JavaScript Testing_ module.
+
+### Thoughts
+
+- Finally done with that stupid project!
+- Now getting into something I've wanted to learn for a while now. TDD!
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [Find Your Hat Challenge Project.](https://github.com/jeffbalagosa/find-your-hat)
+
+---
+
 ## Day 77: June 20, 2022, Monday
 
 ### Today's Progress:
