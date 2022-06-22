@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 79: June 21, 2022, Wednesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Continued working on _JavaScript Testing_ module.
+  - Took the first quiz.
+  - Started using Mocha to write tests.
+
+### Thoughts
+
+- Got 100% on the first quize on the first try!
+- Finally writing tests. I can already see how I could start using this for my projects.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 78: June 21, 2022, Tuesday
 
 ### Today's Progress:
