@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 80: June 21, 2022, Thursday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Continued working on _JavaScript Testing_ module.
+
+### Thoughts
+
+- While it does seem like a lot of overhead work. Writing tests in Mocha does seem like you'll be less error prone. If the functions are easy, I may be tempted not to use it, but getting into the habit will be important. Goot testing covers 100% of the codebase, or as close to 100% as possible.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 79: June 21, 2022, Wednesday
 
 ### Today's Progress:
