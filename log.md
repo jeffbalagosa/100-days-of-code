@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 81: June 21, 2022, Friday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Continued working on _JavaScript Testing_ module.
+  - Got 91% on quiz, on the first attempt.
+
+### Thoughts
+
+- Went through a bunch of the different assert methods available in node. Like assert.strictEqual(), assert.ok(), and assert.deepEqual(). Spoiler: Last one is used for objects, and uses loose equal (==).
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 80: June 21, 2022, Thursday
 
 ### Today's Progress:
