@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 82: June 21, 2022, Saturday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Started and finished _Rooster Regulation_ challenge project.
+- Started learning the TDD philosophy.
+
+### Thoughts
+
+- Writing and executing unit tests are legit fun! As I thought they'd be!
+  - Most people in technology are gamers. The attractive aspect of gaming is the constant feedback loop a video game provides. Try a solution, the solution fails right away, try another solution it also fails right away, try another and... Success! It's addictive. TDD can be seen in this frame too.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 81: June 21, 2022, Friday
 
 ### Today's Progress:
