@@ -1,6 +1,28 @@
 # 100 Days Of Code - Log
 
-## Day 82: June 21, 2022, Saturday
+## Day 83: June 26, 2022, Sunday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Completed lessons and exercises within the TDD module.
+- Completed TDD module quize and got 100% on the first try.
+- Started _Factorial Feature_ project.
+
+### Thoughts
+
+- I wish I had started TDD with my very first project. It would've saved a lot of headache and made coding much more fun.
+- Not sure if others feel the same way about TDD, but it really is like gamifying your coding process.
+- Also, realized that I wasn't updating the date for each log since Tuesday. Sorry about that. I need to be paying more attention.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
+## Day 82: June 25, 2022, Saturday
 
 ### Today's Progress:
 
@@ -20,7 +42,7 @@ Worked on Front-End Course on Codecademy:
 
 ---
 
-## Day 81: June 21, 2022, Friday
+## Day 81: June 24, 2022, Friday
 
 ### Today's Progress:
 
@@ -39,7 +61,7 @@ Worked on Front-End Course on Codecademy:
 
 ---
 
-## Day 80: June 21, 2022, Thursday
+## Day 80: June 23, 2022, Thursday
 
 ### Today's Progress:
 
@@ -57,7 +79,7 @@ Worked on Front-End Course on Codecademy:
 
 ---
 
-## Day 79: June 21, 2022, Wednesday
+## Day 79: June 22, 2022, Wednesday
 
 ### Today's Progress:
 
