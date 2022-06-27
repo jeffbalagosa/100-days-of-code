@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 84: June 27, 2022, Monday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished _Factorial Feature_ project.
+- Started working through Async JavaScript and HTTP requests.
+
+### Thoughts
+
+- The _Factorial Feature_ was pretty easy in comparison to the JavaScript III project.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 83: June 26, 2022, Sunday
 
 ### Today's Progress:
