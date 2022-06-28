@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 85: June 28, 2022, Tuesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished _Introduction: Async JavaScript and HTTP Requests_ module.
+- Finished Basics of _Asynchronous JavaScript_ module.
+- Working through Learn _JavaScript Syntax: Promises_ module.
+
+### Thoughts
+
+- Breezing through these so quickly, I'm afraid when it comes to implementation, I may not have it all down.
+  - Quiz tomorrow, so we'll see if that's true or not.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 84: June 27, 2022, Monday
 
 ### Today's Progress:
