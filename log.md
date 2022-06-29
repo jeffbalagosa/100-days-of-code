@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 86: June 29, 2022, Wednesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished _Learn JavaScript Syntax: Promises_ module.
+  - Got 90% on the quiz, but it took me 2 tries.
+- Working through _Learn JavaSript Syntax: Async-Await_
+  - Currently going through exercises for using try and catch inside of async functions.
+
+### Thoughts
+
+- As I thought, my understanding of _Promises_ in JavaScript wasn't strong. But it was strong enough to sort of understand the quiz. My first score was 60%, but second was 90%. I think I got the better score, just off memorization.
+- Working through the async functions, I'm starting to understand these functions more. But figuring out when and where to implement them in a real project, without any guidance, will be tough.
+- I watched a video of a guy talking about how many hours you should be putting into your study of coding. He mentioned at minimum 15 hours per week total. And you should be touching code every day. In "The Clean Coder" by Uncle Bob, he states 20 hours per week. He states that you should always be studying, no matter where you are in your career. Shit! How do these guys have time for friends & family? Health & fitness? Or just things you need to do to be a well rounded human being?
+- Well, I knew going into this, that it won't be easy. So I'll find a way to keep up with my good habits and responsibilities, while consistenly pursuing excellence in this craft.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 85: June 28, 2022, Tuesday
 
 ### Today's Progress:
@@ -8,7 +32,7 @@ Worked on Front-End Course on Codecademy:
 
 - Finished _Introduction: Async JavaScript and HTTP Requests_ module.
 - Finished Basics of _Asynchronous JavaScript_ module.
-- Working through Learn _JavaScript Syntax: Promises_ module.
+- Working through _Learn JavaScript Syntax: Promises_ module.
 
 ### Thoughts
 
