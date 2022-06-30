@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 87: June 30, 2022, Thursday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished all the lessons and exercises in the _Learn JavaSript Syntax: Async-Await_ module.
+- Now going over APIs, REST, and JSON.
+
+### Thoughts
+
+- Finally getting to work with APIs. Been hearing about them and have worked with stuff that includes API requests at work, but I never really got to understand them.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 86: June 29, 2022, Wednesday
 
 ### Today's Progress:
