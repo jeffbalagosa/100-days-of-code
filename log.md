@@ -1,12 +1,33 @@
 # 100 Days Of Code - Log
 
+## Day 88: July 1, 2022, Friday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished the _APIs and HTTP Requests_ module.
+- Started the _Learn JavaScript Syntax: Reqeusts_ module.
+  - Working through the _Request with Fetch API_ lesson and exercises.
+
+### Thoughts
+
+- Came accross a code challenge in the _APIs and HTTP Requests_ module that marked me incorrect, even though my solution matched the sites solution.
+  - I really couldn't let that fly! It bothered me that much. So I wrote up a forum post about it. Was I wasting my time. Possibly... Do I feel good about my post. Meh... Lol!
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 87: June 30, 2022, Thursday
 
 ### Today's Progress:
 
 Worked on Front-End Course on Codecademy:
 
-- Finished all the lessons and exercises in the _Learn JavaSript Syntax: Async-Await_ module.
+- Finished all the lessons and exercises in the _Learn JavaSript Syntax: Async-Await_ lesson.
 - Now going over APIs, REST, and JSON.
 
 ### Thoughts
@@ -25,7 +46,7 @@ Worked on Front-End Course on Codecademy:
 
 Worked on Front-End Course on Codecademy:
 
-- Finished _Learn JavaScript Syntax: Promises_ module.
+- Finished _Learn JavaScript Syntax: Promises_ lesson.
   - Got 90% on the quiz, but it took me 2 tries.
 - Working through _Learn JavaSript Syntax: Async-Await_
   - Currently going through exercises for using try and catch inside of async functions.
@@ -49,9 +70,9 @@ Worked on Front-End Course on Codecademy:
 
 Worked on Front-End Course on Codecademy:
 
-- Finished _Introduction: Async JavaScript and HTTP Requests_ module.
-- Finished Basics of _Asynchronous JavaScript_ module.
-- Working through _Learn JavaScript Syntax: Promises_ module.
+- Finished _Introduction: Async JavaScript and HTTP Requests_ lesson.
+- Finished Basics of _Asynchronous JavaScript_ lesson.
+- Working through _Learn JavaScript Syntax: Promises_ lesson.
 
 ### Thoughts
 
