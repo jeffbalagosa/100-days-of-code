@@ -18,6 +18,7 @@ Worked on Front-End Course on Codecademy:
 ### Link(s) to work
 
 1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [My salty forum post.](https://discuss.codecademy.com/t/working-with-json-in-javascript-2nd-exercise-marked-my-solution-incorrect-even-though-it-wasnt/680625)
 
 ---
 
