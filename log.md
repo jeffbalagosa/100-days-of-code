@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+## Day 89: July 2, 2022, Saturday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Almost done with the _Request with Fetch API_ lesson and exercises.
+  -There were a lot in of lessons within that lesson, but it was well structured. It walked us how to generate and use APIs for simple stuff like url shortening. They also showed how to chain .then methods error handling within.
+
+### Thoughts
+
+- No one has responded to my forum post... Kinda bummed.
+- On an unrelated note, Jordan B. Peterson got banned from Twitter and is standing his ground. I support him and I think people who don't, misunderstand his point. I really dislike _woke_ Twitter as a platform and business. Once this challenge is over, I'm considering abandoning it to do other challenges on different platforms.
+- But I'm just ranting now... Have a great day everyone! See you tomorrow.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [My salty forum post.](https://discuss.codecademy.com/t/working-with-json-in-javascript-2nd-exercise-marked-my-solution-incorrect-even-though-it-wasnt/680625)
+
+---
+
 ## Day 88: July 1, 2022, Friday
 
 ### Today's Progress:
