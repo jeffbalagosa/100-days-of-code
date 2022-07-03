@@ -12,6 +12,7 @@ Worked on Front-End Course on Codecademy:
 ### Thoughts
 
 - I'm actually diggin' this project! It's a randomized movie suggestion app by genre, that uses an api from The Movie Database. Once you're done, you have the option of expanding the app to include TV show recommendations. I'm pretty sure I'll want to do that. I love any apps that can help me make decisions without needing to expend my executive function energy.
+- Also still, no one has responded to my forum post...
 
 ### Link(s) to work
 
