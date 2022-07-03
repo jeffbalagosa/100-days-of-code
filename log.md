@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 90: July 3, 2022, Sunday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished both _Requests with Fetch API_ lessons. (Didn't realize there were two.)
+- Started working on the _Film Finder_ project.
+
+### Thoughts
+
+- I'm actually diggin' this project! It's a randomized movie suggestion app by genre, that uses an api from The Movie Database. Once you're done, you have the option of expanding the app to include TV show recommendations. I'm pretty sure I'll want to do that. I love any apps that can help me make decisions without needing to expend my executive function energy.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [My salty forum post.](https://discuss.codecademy.com/t/working-with-json-in-javascript-2nd-exercise-marked-my-solution-incorrect-even-though-it-wasnt/680625)
+
+---
+
 ## Day 89: July 2, 2022, Saturday
 
 ### Today's Progress:
