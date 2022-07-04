@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 91: July 4, 2022, Monday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Continued working on the _Film Finder_ project.
+
+### Thoughts
+
+- I'm grateful that I'm already in the technology field. A common problem with these courses is that some parts quickly become outdated, if they depend on 3rd party apps to complete.
+  - For example, I used my FB profile to sign up to this site got get my API key. FB must have changed their terms and now the tests we need to do in the console for this project throw errors. Even though the app actuall still works. I was able to troubleshoot past those, but I'm not sure others taking this course would be able to.
+- Also, still no response to my forum post. Lol!
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [My salty forum post.](https://discuss.codecademy.com/t/working-with-json-in-javascript-2nd-exercise-marked-my-solution-incorrect-even-though-it-wasnt/680625)
+
+---
+
 ## Day 90: July 3, 2022, Sunday
 
 ### Today's Progress:
