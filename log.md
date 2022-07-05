@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 92: July 5, 2022, Tuesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Completed _Async JavaScript and HTTP Requests_ module.
+  - Finished the _Film Finder_ project.
+  - Finished the _Introduction to Web Security_ lessons and exercises.
+  - Finshed _Review: Async JavaScript and HTTP Requests_.
+- Started _Web Apps_ Module.
+  - Completed _Introduction: Web Apps lesson_.
+
+### Thoughts
+
+- Breezed through web security. Most of the concepts I'm already familiar with because of work.
+- Excited to finally start Web Apps. React/Redux is just around the corner from here. Once I'm done with those, I can pick up my portfolio again and finalize some stuff in it.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 91: July 4, 2022, Monday
 
 ### Today's Progress:
