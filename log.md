@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+## Day 93: July 6, 2022, Wednesday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Completed the _Web Apps_ module.
+- Started the _React, Part 1_ module.
+  - Finished _Introduction: React, Part 1_ lesson and exercises.
+  - Finished _JavaScript Refresher_ lesson and exercises.
+  - Finished _The Virtual DOM_ lesson and exercises.
+  - Working through _JSX_ lessons and exercises.
+
+### Thoughts
+
+- Last week of my challenge! Honestly hasn't really hit me yet. I think my coffee has yet to kick in.
+- There's still a lot I need to accomplish.
+- I'm finally learning REACT, so I'm happy about that. Long time comin'!
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 92: July 5, 2022, Tuesday
 
 ### Today's Progress:
