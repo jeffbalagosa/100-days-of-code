@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 94: July 6, 2022, Thursday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Still working through _JSX_ lessons and exercises.
+
+### Thoughts
+
+- Found my self dragging my feet and highly susceptible to distraction today. I'm blaming it on lack of sleep due to insomnia. Could be short-timer-itis. Just need to keep reminding myself this isn't the end. It's just the beginning.
+- React/JSX seems pretty straight forward so far. Being able to inject JavaScript directly into html, without having to add script tags, makes things a whole lot simpler.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 93: July 6, 2022, Wednesday
 
 ### Today's Progress:
