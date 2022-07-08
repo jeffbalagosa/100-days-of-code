@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 95: July 7, 2022, Friday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished working through _JSX_ lessons and exercises.
+- Finished _JSX_ quiz.
+- Started _Animal Fun Facts_ project.
+
+### Thoughts
+
+- Suuuper distracted this morning and very little sleep last night! I can't really get into details, but I'm balancing so many plates right now, and a lot of them are starting to crash. All except this challenge... So there at least that.
+- I don't know how long I can keep up this pace after this challenge is over. There's a reason why _Atomic Habits_ recommends you make your daily habits small enough that there's no friction. This will keep you consistent. And 1hr per day in my insane life causes **A LOT** of friction.
+- I'm going to go back to a minimum of just hitting start on a pomodoro timer and studying for a 1 minute after this. I'm sure most days will still be a lot more than 1 minute, but 1hr per day at minimum for the next 15 - 20 years or so just isn't doable. Some days I may be able to hit 4 - 6 hours of coding. Other days, I'd be lucky to get 5 minutes.
+- Ok I'm done with my rant. Time to get ready for work.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 94: July 6, 2022, Thursday
 
 ### Today's Progress:
