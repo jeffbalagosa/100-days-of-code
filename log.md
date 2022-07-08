@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 95: July 7, 2022, Friday
+## Day 95: July 8, 2022, Friday
 
 ### Today's Progress:
 
@@ -23,7 +23,7 @@ Worked on Front-End Course on Codecademy:
 
 ---
 
-## Day 94: July 6, 2022, Thursday
+## Day 94: July 7, 2022, Thursday
 
 ### Today's Progress:
 
