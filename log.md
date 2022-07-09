@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 96: July 7, 2022, Saturday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Still working through _Animal Fun Facts_ project.
+
+### Thoughts
+
+- Seems there are bugs in thei project. Pics aren't displaying when they should. Pretty sure my code is right. (Even followed the solution video exactly to make sure.)
+- Next session, I'm going to download the files to see if it turns out different, when the images are on local folders.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 95: July 8, 2022, Friday
 
 ### Today's Progress:
