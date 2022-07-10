@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 97: July 8, 2022, Sunday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Finished the _Animal Fun Facts_ project.
+- Started learning React Components.
+
+### Thoughts
+
+- I wasn't able to download the files for _Animal Fun Facts_, they didn't have a download link for it. I could've copied the code, but the images folder containing the images would've been hard to replicate.
+- However, I was able to find out what was wrong with my code. I put a closing bracket in the wrong place. That's all it was. It's very strange. I've looked at that line a dozen times and compared it to the "follow along" code a dozen times. My eyes/brain just refused to see it! Oh well. On to the next.
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 96: July 7, 2022, Saturday
 
 ### Today's Progress:
