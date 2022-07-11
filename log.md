@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 98: July 9, 2022, Monday
+
+### Today's Progress:
+
+Worked on Front-End Course on Codecademy:
+
+- Still working through _React Components_ Lesson.
+  - Finished articles and exercises for Your _First React Component_ segment.
+  - Currently going through _Components and React JSX_.
+
+### Thoughts
+
+- It's crazy to think I only have 2 days left! I feel like I've been on this forever. Technically, I'm only half way done with the course. But I have alot to show for it and already feel pretty confident that I could get scooped up for a Jr. Dev role if I applied to stuff today. I'd have to apply for A LOT of jobs, but I would get one. lol
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+
+---
+
 ## Day 97: July 8, 2022, Sunday
 
 ### Today's Progress:
@@ -7,7 +27,7 @@
 Worked on Front-End Course on Codecademy:
 
 - Finished the _Animal Fun Facts_ project.
-- Started learning React Components.
+- Started learning _React Components_.
 
 ### Thoughts
 
