@@ -1,6 +1,37 @@
 # 100 Days Of Code - Log
 
-## Day 98: July 9, 2022, Monday
+## Day 99: July 12, 2022, Tuesday
+
+### Today's Progress:
+
+Worked on my portfolio:
+
+- Added more fun facts to the tagline.
+- Updated content in the portfolio section.
+- Added an interval functionality to randomize tagline without interaction.
+
+Worked on Front-End Course on Codecademy:
+
+- Still working through _React Components_ Lesson.
+  - Finished _Components and React JSX_.
+  - Took Quiz.
+  - Started the _Authorization Form_ project.
+
+### Thoughts
+
+- CodeCademy's site was actually **down** this morning! I was just getting a blank white page with an _Internal 500 server error_.
+- Since I couldn't work on that, I decided to work on my port folio. Added some nice touches to it.
+- Life is unpredictable. Things aren't always under your control. Grateful that Stoicism has taught me to stay calm and expect these kinds of technical roadblocks. Even with the setback, this is one of the more productive sessions.
+- Last day is tomorrow. It's soft of bittersweet...
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+2. [Portfolio](https://github.com/jeffbalagosa/portfolio.git)
+
+---
+
+## Day 98: July 11, 2022, Monday
 
 ### Today's Progress:
 
@@ -20,7 +51,7 @@ Worked on Front-End Course on Codecademy:
 
 ---
 
-## Day 97: July 8, 2022, Sunday
+## Day 97: July 10, 2022, Sunday
 
 ### Today's Progress:
 
@@ -40,7 +71,7 @@ Worked on Front-End Course on Codecademy:
 
 ---
 
-## Day 96: July 7, 2022, Saturday
+## Day 96: July 9, 2022, Saturday
 
 ### Today's Progress:
 
