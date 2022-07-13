@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log
 
+## Day 100: July 13, 2022, Wenesday
+
+### Today's Progress:
+
+- Finished the _Authorization Form_ project.
+- Learned how to locally create a react app via the terminal.
+- Familiarized myself with React's official documentation.
+- Read review lesson and practice exercises.
+- Started on _React, Part II_ module.
+
+### Thoughts
+
+- And that's all she wrote folks! I'm finally done with this challenge.
+- I worked on 2 specific coding projects for a minimum of 1 hour a day. (Some days, it was quite a bit more.)
+- I did not miss 1 day. Not a single one since this whole thing started.
+- This challenged humbled me. I moved a lot slower than anticipated. There was a lot more I needed to learn in my course than I thought.
+- I did get through 56% of my course. I think I was around 25% when I started.
+- My portfolio is 95% ready to be launched to the public. All I need to do is fill out my projects' Readme files on GitHub and write short blurbs about them on my portfolio site.
+- I'm still going to code daily. This isn't something I'm ever going to put down. Although, it will be at a slightly more relaxed pace. The end of this challenge really had me going on burn out!
+- There was a lot of adversity that happened in my private life during these three months. I won't get into details, but I believe most people would've stopped the challenge having faced the same. But I am definitely built different.
+- I'm taking my family to Disneyland this weekend, for a much deserved vacation.
+- My next rounds of 100 Days of Code probably won't be using Twitter as the accountability platform. That space is the most toxic of all social medias. And I think they're **ALL** toxic! lol
+- Hope this has inspired, or at least entertained, anyone taking on this challenge.
+- I wish you all the best. Good luck with your own challenge. Go forth. Build cool shit! Get good at difficult things! Change the world at break-neck speed! Be better than who you were yesterday!
+
+### Link(s) to work
+
+1. [Codecademy Front-End Engineer Course.](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+1. [Salty forum post.](https://discuss.codecademy.com/t/working-with-json-in-javascript-2nd-exercise-marked-my-solution-incorrect-even-though-it-wasnt/680625)
+
+---
+
 ## Day 99: July 12, 2022, Tuesday
 
 ### Today's Progress:
